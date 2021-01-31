@@ -1,6 +1,6 @@
 # Leave Meeting Button
 
-![Leave Meeting button](./blob/main/images/switch.jpg?raw=true =400x400)
+<img src="./blob/main/images/switch.jpg?raw=true" width="400" height="400"/>
 
 Files for building your own Single-button "keyboard" that does only one thing - leave any Zoom meetings.
 
