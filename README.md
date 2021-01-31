@@ -12,7 +12,7 @@ See demo here: https://www.youtube.com/watch?v=0GqqAG8KL6Q
 * Supported by 3 stabilizers so you can press anywhere
 * Powered by a Pro Micro
 * Really only sends an Alt-F4 to the active window. So this assumes the Zoom window is the current focus
-* A prototype - not for sale (yet)
+* A prototype - not for sale (yet) - if you would rather buy something like this, (let me know here)[https://us7.list-manage.com/survey?u=ac16f42c5affbb6b6658ad19d&id=0ef51ae243] . If there's enough interest, I'll figure out how to mass-produce this
 
 ## How to build (TL;DR)
 
@@ -39,6 +39,7 @@ If you can help out here it will be much appreciated:
 * Test on a Mac with different key presses
 * Use a cheaper microcontroller - some suggested digispark / Attiny85
 * RGB lighting effects?
+* Figure out if I should get it mass produced (?)
 
 ## How to build (Detailed version)
 
