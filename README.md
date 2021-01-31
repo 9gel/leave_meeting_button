@@ -1,6 +1,6 @@
-# Leave Meeting Button
+# Zoom Leave Meeting Button
 
-![Leave Meeting button](./blob/main/images/switch.jpg?raw=true =400x400)
+<img src="./images/switch.jpg?raw=true" width="400" height="400"/>
 
 Files for building your own Single-button "keyboard" that does only one thing - leave any Zoom meetings.
 
@@ -11,7 +11,8 @@ See demo here: https://www.youtube.com/watch?v=0GqqAG8KL6Q
 * A single-switch mechanical keyboard / macropad with a large 3D-printed keycap
 * Supported by 3 stabilizers so you can press anywhere
 * Powered by a Pro Micro
-* A prototype - not for sale (yet)
+* Really only sends an Alt-F4 to the active window. So this assumes the Zoom window is the current focus
+* A prototype - not for sale (yet) - if you would rather buy something like this, [let me know here](https://us7.list-manage.com/survey?u=ac16f42c5affbb6b6658ad19d&id=0ef51ae243) . If there's enough interest, I'll figure out how to mass-produce this
 
 ## How to build (TL;DR)
 
@@ -31,8 +32,14 @@ See demo here: https://www.youtube.com/watch?v=0GqqAG8KL6Q
 
 ## Outstanding items
 
+If you can help out here it will be much appreciated:
+
+* Complete the detailed version of the build
+* Use [Autohotkey](https://www.autohotkey.com/) for more reliable scripting
+* Test on a Mac with different key presses
 * Use a cheaper microcontroller - some suggested digispark / Attiny85
 * RGB lighting effects?
+* Figure out if I should get it mass produced (?)
 
 ## How to build (Detailed version)
 
