@@ -11,6 +11,7 @@ See demo here: https://www.youtube.com/watch?v=0GqqAG8KL6Q
 * A single-switch mechanical keyboard / macropad with a large 3D-printed keycap
 * Supported by 3 stabilizers so you can press anywhere
 * Powered by a Pro Micro
+* Really only sends an Alt-F4 to the active window. So this assumes the Zoom window is the current focus
 * A prototype - not for sale (yet)
 
 ## How to build (TL;DR)
@@ -31,6 +32,11 @@ See demo here: https://www.youtube.com/watch?v=0GqqAG8KL6Q
 
 ## Outstanding items
 
+If you can help out here it will be much appreciated:
+
+* Complete the detailed version of the build
+* Use (Autohotkey)[https://www.autohotkey.com/] for more reliable scripting
+* Test on a Mac with different key presses
 * Use a cheaper microcontroller - some suggested digispark / Attiny85
 * RGB lighting effects?
 
