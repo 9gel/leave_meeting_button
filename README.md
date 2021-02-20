@@ -1,5 +1,5 @@
 # Zoom Leave Meeting Button
-
+<img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/><br/>
 <img src="./images/switch.jpg?raw=true" width="400" height="400"/>
 
 Files for building your own Single-button "keyboard" that does only one thing - leave any Zoom meetings.
