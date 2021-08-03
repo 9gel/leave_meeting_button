@@ -13,7 +13,7 @@ And here's the Reddit thread that prompted the sharing: https://www.reddit.com/r
 * Supported by 3 stabilizers so you can press anywhere on the key
 * Powered by a Pro Micro Arduino microcontroller
 * Really only sends an Alt-F4 to the active window. So this assumes the Zoom window is the current focus (see improvement ideas below)
-* A prototype - not for sale (yet) - if you would rather buy something like this, [let me know here](https://us7.list-manage.com/survey?u=ac16f42c5affbb6b6658ad19d&id=0ef51ae243) . If there's enough interest, I'll figure out how to mass-produce this
+* A prototype - not for sale (yet) - if you would rather buy something like this, let me know. If there's enough interest, I'll figure out how to mass-produce this
 
 ## How to build (TL;DR)
 
